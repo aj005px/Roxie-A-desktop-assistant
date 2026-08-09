@@ -25,6 +25,7 @@ __pycache__/
 
 # Personal profile
 character.txt
+tools.py
 
 # Local AI memory / vector database
 memory/
