@@ -1,0 +1,40 @@
+# API keys / secrets
+secrets.py
+.env
+*.key
+
+# local vector DB / memory
+memory/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# obsidian vault (personal notes, shouldn't be in a public repo)
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Personal profile
+character.txt
+
+# Local AI memory / vector database
+memory/
+
+# Environment variables / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Personal notes
+notes/
+obsidian/
